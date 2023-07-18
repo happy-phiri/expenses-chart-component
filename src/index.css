@@ -196,7 +196,7 @@ p {
   }
 
   .logo {
-    width: 90%;
+    width: 60px;
   }
 }
 
@@ -204,5 +204,4 @@ p {
   .header {
     width: 300px;
   }
-
 }
